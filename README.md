@@ -22,7 +22,7 @@ A simple and interactive **Weather Forecast Web Application** built with **HTML*
 
 - **HTML5** – Markup structure
 - **CSS3** – Styling and layout
-- **JavaScript (Vanilla)** – API calls and DOM manipulation
+- **JavaScript** – API calls and DOM manipulation
 - **OpenWeatherMap API** – For real-time weather data
 
 ---
